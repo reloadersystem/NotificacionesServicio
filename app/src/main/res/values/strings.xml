@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReloaderNotificaciones</string>
+    <string name="default_notification_channel_id">notif_CH_01</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "515865348555",
+    "firebase_url": "https://reloadernotifications.firebaseio.com",
+    "project_id": "reloadernotifications",
+    "storage_bucket": "reloadernotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515865348555:android:5f4300d375ef0104314e4e",
+        "android_client_info": {
+          "package_name": "com.reloader.reloadernotificaciones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515865348555-61khqpu8njhjqcssvrhhianpk75100e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reloader.reloadernotificaciones",
+            "certificate_hash": "0313bd946df14319cb724b13050f23ced3a6e89c"
+          }
+        },
+        {
+          "client_id": "515865348555-1d414inmo3faao6t5qf49b0dkb3ahnb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZlotQARXu4WYdFvhOjxZIYPQ61QI6Rfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515865348555-1d414inmo3faao6t5qf49b0dkb3ahnb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
